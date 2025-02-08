@@ -1,7 +1,5 @@
 # Hi there, I'm Richard Li! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Richard%20Li-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/richardli14/)
-
 ## About Me
 I'm a freshman at UCLA studying data science + statistics 
 
