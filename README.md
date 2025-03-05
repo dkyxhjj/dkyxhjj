@@ -1,6 +1,34 @@
 # Hi there, I'm Richard Li! 👋
 
 ## About Me
-I'm a freshman at UCLA studying data science + statistics 
+I'm a freshman at **UCLA** studying **Data Science + Statistics**.  
+I'm a passionate developer interested in **full-stack development, deep learning, and sports analytics**.
 
-I'm a passionate developer with experience in **Full Stack Development**, experienced with the javascript stack (next.js, express.js and mongoDB), always looking forward to learn new frameworks. 
+## 🔧 Tech Stack
+
+### Languages:
+- 🐍 Python
+- 💻 JavaScript
+
+### Frameworks & Components:
+#### Frontend:
+- ⚛️ React
+- 🚀 Next.js
+- 🎨 ShadCN
+
+#### Backend:
+- 🏗 Flask
+- ⚡ FastAPI
+
+#### Databases:
+- 🍃 MongoDB
+- 🔥 Supabase
+
+### Tools:
+- 🐳 Docker
+- 🌍 GitHub
+- ⚡ Warp
+
+---
+📫 **Let's Connect!**  
+Feel free to reach out or check out my projects! 🚀
