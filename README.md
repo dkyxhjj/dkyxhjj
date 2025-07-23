@@ -18,23 +18,11 @@
 
 ---
 
-<h3 align="center">🌱 What I'm Up To</h3>
-
-<ul>
-  <li>📚 Expanding my machine learning skills</li>
-  <li>🛠️ Building side projects in Python, FastAPI</li>
-  <li>🎯 Exploring how to make AI more useful (and fun) in daily life</li>
-</ul>
-
----
-
 <h3 align="center">📫 Let's Connect</h3>
 
 <p align="left">
-  Feel free to reach out, whether it’s about data, dev stuff, or where to find the best food in Toronto:<br>
-  🐦 Twitter/X: <em>Coming soon</em><br>
-  🥘 Beli: @dcky<br>
-  📧 Email: <em>Maybe later :)</em>
+  Feel free to reach out, whether it’s about data, dev stuff, or where to find the best food in whereever<br>
+  📧 Email: <em>richardli.060411@gmail.com</em>
 </p>
 
 ---
