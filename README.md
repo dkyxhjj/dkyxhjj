@@ -8,10 +8,14 @@
 
 ###
 
-<h3 align="left">About Me</h3>
+<h3 align="center">About Me</h3>
 
 ###
 
 <p align="left">I'm Richard from a small town called toronto in canada<br><br>- I’m working as a data engineer right now at RBC<br>- I'm currently learning computer vision and reinforcement learning<br>- In my free time I enjoy to eat, eat and eat. Add me on beli @dcky</p>
 
 ###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dkyxhjj&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
