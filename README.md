@@ -1,21 +1,46 @@
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
 </div>
+<h1 align="center">Hey there! 👋</h1>
 
-###
+<p align="center">Welcome to my GitHub — I'm glad you're here 😊</p>
 
-<h1 align="center">hey there 👋</h1>
+---
 
-###
+<h3 align="center">👨‍💻 About Me</h3>
 
-<h3 align="center">About Me</h3>
+<p align="left">
+  I'm <strong>Richard</strong>, a data engineer based in the humble town of Toronto, Canada 🍁<br><br>
+  🔧 I currently work at <strong>RBC</strong> building robust data pipelines and solving cool problems with data.<br>
+  🧠 I'm diving deep into <strong>computer vision</strong> and <strong>reinforcement learning</strong> — learning never stops!<br>
+  🍜 Outside of work, you can usually find me doing one thing: <em>eating</em>. A lot. Add me on <strong>Beli</strong> @dcky if you're a fellow foodie!
+</p>
 
-###
+---
 
-<p align="left">I'm Richard from a small town called toronto in canada<br><br>- I’m working as a data engineer right now at RBC<br>- I'm currently learning computer vision and reinforcement learning<br>- In my free time I enjoy to eat, eat and eat. Add me on beli @dcky</p>
+<h3 align="center">🌱 What I'm Up To</h3>
 
-###
+<ul>
+  <li>📚 Expanding my machine learning skills (CV + RL ftw!)</li>
+  <li>🛠️ Building side projects in Python, FastAPI, and a bit of C++</li>
+  <li>🎯 Exploring how to make AI more useful (and fun) in daily life</li>
+</ul>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=dkyxhjj&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+---
+
+<h3 align="center">📫 Let's Connect</h3>
+
+<p align="left">
+  Feel free to reach out, whether it’s about data, dev stuff, or where to find the best food in Toronto:<br>
+  🐦 Twitter/X: <em>Coming soon</em><br>
+  🥘 Beli: @dcky<br>
+  📧 Email: <em>Maybe later :)</em>
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
