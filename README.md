@@ -11,8 +11,8 @@
 
 <p align="left">
   I'm <strong>Richard</strong>, a data engineer based in the humble town of Toronto, Canada 🍁<br><br>
-  🔧 I currently work at <strong>RBC</strong> building robust data pipelines and solving cool problems with data.<br>
-  🧠 I'm diving deep into <strong>computer vision</strong> and <strong>reinforcement learning</strong> — learning never stops!<br>
+  🔧 I currently work at <strong>RBC</strong> as a data engineering intern for the summmer<br>
+  🧠 I'm diving deep into <strong>computer vision</strong> and <strong>reinforcement learning</strong><br>
   🍜 Outside of work, you can usually find me doing one thing: <em>eating</em>. A lot. Add me on <strong>Beli</strong> @dcky if you're a fellow foodie!
 </p>
 
@@ -21,8 +21,8 @@
 <h3 align="center">🌱 What I'm Up To</h3>
 
 <ul>
-  <li>📚 Expanding my machine learning skills (CV + RL ftw!)</li>
-  <li>🛠️ Building side projects in Python, FastAPI, and a bit of C++</li>
+  <li>📚 Expanding my machine learning skills</li>
+  <li>🛠️ Building side projects in Python, FastAPI</li>
   <li>🎯 Exploring how to make AI more useful (and fun) in daily life</li>
 </ul>
 
