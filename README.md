@@ -14,7 +14,6 @@
   🏦 Previously a <strong>Data Engineering Intern @ RBC</strong>, where I built a recommendation system serving enterprise users<br>
   🏠 Full-stack engineer at <strong>Creative Labs UCLA</strong>, building <em>Homie</em> — a roommate matching app<br>
   📊 Lately I've been into <strong>applied statistical modeling</strong>: GLMs for sports betting markets, poker solvers, and anything that turns messy data into a decision<br>
-  🏀 Athletics Director @ <strong>ACA</strong> (Association of Chinese Americans at UCLA)<br>
   🍜 Outside of work, you can usually find me doing one thing: <em>eating</em>. A lot. Add me on <strong>Beli</strong> @dcky if you're a fellow foodie!<br>
   ✈️ Also cooking, grinding GTO, and planning the next trip — Seoul is up next
 </p>
